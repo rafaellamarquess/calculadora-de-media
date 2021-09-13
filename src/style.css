@@ -1,0 +1,36 @@
+body {
+  font-family: Times New Roman;
+  background-color: #1C1C1C;
+  background-size: 2800px;
+}
+
+input {
+  border: groove 0.2em #2d1106;
+  border-radius: 3em;
+  text-align: center;
+}
+
+button {
+   border: groove 0.2em #2d1106;
+  border-radius: 3em;
+}
+
+.container {
+  text-align: center;
+  padding: 5px;
+  height: 16vh;
+  width: 300px;
+  background-color: Silver;
+  border-radius: 3em;
+  position: absolute;
+  left: 40%;
+  top: 20%;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  padding: 20px;
+  height: 30px;
+  font-size: 60px;
+}
